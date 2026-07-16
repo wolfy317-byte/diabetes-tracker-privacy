@@ -1,4 +1,4 @@
-# Support — Diabetes Health Tracker
+# Support — Glimpse
 
 Need help with the app, or have feedback? Reach out and we'll get back to you.
 

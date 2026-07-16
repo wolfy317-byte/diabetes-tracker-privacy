@@ -1,8 +1,8 @@
-# Privacy Policy — Diabetes Health Tracker
+# Privacy Policy — Glimpse
 
 **Last updated:** July 16, 2026
 
-Diabetes Health Tracker ("the app") is developed by Allen Gresham ("we," "us"). This policy explains what information the app collects, how it's used, and how you can control it.
+Glimpse ("the app") is developed by Allen Gresham ("we," "us"). This policy explains what information the app collects, how it's used, and how you can control it.
 
 ## Information We Collect
 
